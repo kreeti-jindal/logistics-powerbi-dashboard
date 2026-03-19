@@ -12,7 +12,7 @@ This project presents a comprehensive Power BI dashboard designed to analyze log
 ## Dashboard Features
 
 ### 🔹 1. Overview Dashboard
-- KPI summary (Orders, On-Time %, CSAT, Delivery Time)
+- KPI summary (Total Orders, On-Time Delivery %, CSAT %, Average Delivery Time)
 - Orders processed vs hub capacity
 - Hub performance ranking
 - Driver performance insights
@@ -56,7 +56,6 @@ This project presents a comprehensive Power BI dashboard designed to analyze log
 - Power BI  
 - DAX (Data Analysis Expressions)  
 - Data Modeling  
-- Data Visualization  
 
 ## Dashboard Preview
 
