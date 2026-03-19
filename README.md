@@ -55,7 +55,7 @@ This project presents a comprehensive Power BI dashboard designed to analyze log
 ## Tools & Technologies
 - Power BI  
 - DAX (Data Analysis Expressions)  
-- Data Modeling  
+- Data Modeling
 
 ## Dashboard Preview
 
