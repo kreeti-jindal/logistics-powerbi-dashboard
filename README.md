@@ -61,13 +61,13 @@ This project presents a comprehensive Power BI dashboard designed to analyze log
 ## Dashboard Preview
 
 ### Overview Dashboard
-![Overview](images/overview.png)
+![Overview](overview.png)
 
 ### Hub Performance
-![Hubs](images/hub.png)
+![Hubs](hub.png)
 
 ### Driver Performance
-![Drivers](images/driver.png)
+![Drivers](driver.png)
 
 ### Vehicle Performance
-![Vehicles](images/vehicle.png)
+![Vehicles](vehicle.png)
